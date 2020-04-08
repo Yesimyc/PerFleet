@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: Create Calendar Event Features
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 108.895 s <<< FAILURE! - in Create Calendar Event Features
+Verify that cancel button redirects user to "All Calendar Events" page(Create Calendar Event Features)  Time elapsed: 46.969 s  <<< ERROR!
+org.openqa.selenium.ElementClickInterceptedException: 
+element click intercepted: Element <a href="/calendar/event/create" class="btn main-group btn-primary pull-right " title="Create Calendar event">...</a> is not clickable at point (1314, 137). Other element would receive the click: <div class="loader-mask shown">...</div>
+  (Session info: chrome=80.0.3987.163)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Yesims-Air-3.hsd1.tx.comcast.net', ip: '2601:2c2:700:6740:0:0:0:bbfa%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '12.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.163, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: /var/folders/y3/r0h4y5m509q...}, goog:chromeOptions: {debuggerAddress: localhost:53604}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a96996364570f2bf19b5d13b073b5762
+
