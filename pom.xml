@@ -57,7 +57,7 @@
                     <runOrder>Alphabetical</runOrder>
                     <includes>
                         <include>**/*CucumberRunner.java</include>
-                        <include>**/*FailedRunner.java</include>
+                       // <include>**/*FailedRunner.java</include>
 
                     </includes>
                     <testFailureIgnore>true</testFailureIgnore>

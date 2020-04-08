@@ -9,6 +9,7 @@ import org.junit.runner.RunWith;
 
         features = "@target/rerun.txt",
         glue = "com/perfleet/step_definitions",
+
         plugin = {"html:target/rerun-default-cucumber-reports",
 
 
@@ -19,3 +20,4 @@ public class FailedRunner {
 
 
 }
+
