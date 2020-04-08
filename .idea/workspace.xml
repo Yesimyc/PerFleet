@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5c11dab3-c7c3-48ed-89a8-f51077951e99" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/perfleet/runners/FailedRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/perfleet/runners/FailedRunner.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
